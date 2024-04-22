@@ -1,5 +1,5 @@
 {
-  "name" :"GregorDusan/ispconfig-api-wrapper",
+  "name" :"gregordusan/ispconfig-api-wrapper",
   "description" :"A simple wrapper for ISPConfig 3 Remote API.",
   "keywords" :[
     "PHP",
