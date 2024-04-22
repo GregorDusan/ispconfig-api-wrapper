@@ -23,6 +23,12 @@ The *only* change is that every response is returned as a json encoded array.
 
 Create remote user in ISPConfig.
 
+## Composer
+
+```bash
+$ composer require gregordusan/ispconfig-api-wrapper dev-main
+```
+
 ## Usage
 
 The wrapper can be included & used on any PHP application.
