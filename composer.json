@@ -1,0 +1,29 @@
+{
+  "name" :"GregorDusan/ispconfig-api-wrapper",
+  "description" :"A simple wrapper for ISPConfig 3 Remote API.",
+  "keywords" :[
+    "PHP",
+    "ISPConfig3",
+    "API",
+    "wrapper"
+  ],
+  "license" :"MIT",
+  "minimum-stability" :"dev",
+  "authors" :[
+    {
+      "name" :"Dusan Gregor",
+      "homepage" :"https://github.com/GregorDusan/ispconfig-api-wrapper",
+      "email" :"dusan.gregor@gmail.com"
+    }
+  ],
+  "autoload" :{
+    "psr-4" :{
+      "ISPConfigWrapper\\" :"src/"
+    }
+  },
+  "require" :{
+    "php" :">=7.4",
+    "ext-soap" :"*",
+    "ext-json" :"*"
+  }
+}
