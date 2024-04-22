@@ -8,6 +8,8 @@ Based on repository: [pemedina/ispconfig-wrapper](https://github.com/pemedina/is
 
 Designed to interoperate with ISPConfig 3, it aims to provide an expressive yet simple interface to perform all actions provided by the API.
 
+[![Latest Stable Version](http://poser.pugx.org/gregordusan/ispconfig-api-wrapper/v?style=for-the-badge)](https://packagist.org/packages/gregordusan/ispconfig-api-wrapper) [![Total Downloads](http://poser.pugx.org/gregordusan/ispconfig-api-wrapper/downloads?style=for-the-badge)](https://packagist.org/packages/gregordusan/ispconfig-api-wrapper) [![Latest Unstable Version](http://poser.pugx.org/gregordusan/ispconfig-api-wrapper/v/unstable?style=for-the-badge)](https://packagist.org/packages/gregordusan/ispconfig-api-wrapper) [![License](http://poser.pugx.org/gregordusan/ispconfig-api-wrapper/license?style=for-the-badge)](https://packagist.org/packages/gregordusan/ispconfig-api-wrapper?style=for-the-badge) [![PHP Version Require](http://poser.pugx.org/gregordusan/ispconfig-api-wrapper/require/php?style=for-the-badge)](https://packagist.org/packages/gregordusan/ispconfig-api-wrapper)
+
 ## Requirements
 
 * PHP >= 7.4 (with [soap](http://se2.php.net/soap) support)
